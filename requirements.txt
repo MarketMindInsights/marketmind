@@ -1,0 +1,5 @@
+streamlit
+yfinance
+textblob
+feedparser
+sgmllib3k
